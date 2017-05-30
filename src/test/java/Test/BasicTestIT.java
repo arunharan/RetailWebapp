@@ -16,7 +16,7 @@ public class BasicTestIT {
 	 // WebDriver	driver = new ChromeDriver();
 	 //WebDriver	driver = new FirefoxDriver();
 	 WebDriver	driver = new HtmlUnitDriver();
-	  driver.get("http://172.16.2.78:8080/retailone/");
+	  driver.get("http://172.16.2.78:8080/retailone-3.0/");
 	  //driver.get("https://devopsdemoapp.cfapps.io/");
 	  Assert.assertEquals("Retail Application Demo", driver.getTitle());
 	  driver.close();
