@@ -90,7 +90,7 @@ Cognizant 2017 RETAIL STORE
 <br>
 <table align="center">
 <tr><td></td><td>
-<label>New User!!! - </label><a href="index.jsp">Register</a></td></tr>
+<label>Welcome New User!!! - </label><a href="index.jsp">Register</a></td></tr>
 
 <tr><td>
 <label>Username</label></td><td>
