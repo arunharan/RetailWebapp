@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Retail Application 2018</title>
+<title>Retail Application 2018 Jun</title>
 <script type="text/javascript">  
 function login(thisform)  {
 	var name = thisform.username.value;
