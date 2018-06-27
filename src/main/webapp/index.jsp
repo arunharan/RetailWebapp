@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Retail Application 2018 Jun</title>
+<title>Retail Application 2018 Jun 27</title>
 <script type="text/javascript">  
 function login(thisform)  {
 	var name = thisform.username.value;
@@ -76,7 +76,7 @@ function login(thisform)  {
 <td>
 </td><td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <h1 align="center"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-Cognizant 2018 RETAIL STORE -Devops
+Cognizant 2018 RETAIL STORE - Devops
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 </h1>
 </td><td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
